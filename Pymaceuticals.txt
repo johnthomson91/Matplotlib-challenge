@@ -1,0 +1,5 @@
+Observations
+1)	Based on the data, Ramicane and Capomulin seem to be the best options for treatment. Their results across the board are consistently better than the rest of the drug treatments. 
+2)	Use of Ketapril on the mice actually exacerbated the size of the tumor as evident in the mean and median size being larger than that of the placebo.
+3)	There seems to be a positive correlation based on weight and tumor size, so obesity could be a leading contributor squamous cell carcinoma (SCC) which should be studied further. 
+
